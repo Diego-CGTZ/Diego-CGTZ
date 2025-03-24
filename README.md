@@ -1,25 +1,29 @@
+# Diego Camarena Gutiérrez 
+### Computer Systems and Software Engineering Student
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Diego+Camarena+Gutiérrez;Administrador+de+redes;Desarrollador+Full+Stack;Apasionado+por+la+automatización" alt="Títulos animados" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Network+Administrator;Full+Stack+Developer;Automation+Enthusiast;API+Creator" alt="Animated Titles" />
 </p>
 
-### Estudiante de Ingeniería en Sistemas Computacionales y Software
 ---
 
-## 🚀 Sobre mí
+## 🚀 About Me
 
-Ingeniero en formación con amplia experiencia práctica en administración de sistemas y desarrollo de software. Mis competencias clave incluyen:
+Aspiring engineer experience in system administration and software development. Key competencies include:
 
-- 🌐 Configuración de redes empresariales
-- 🖥️ Administración de servidores Linux/Windows
-- 🐳 Administración de bases de datos.
-- 🔄 Desarrollo Multiplataforma.
-- 🛡️ Creación de apis.
+- 🌐 Enterprise network configuration
+- 🖥️ Linux/Windows server administration
+- 🐳 Database management
+- 💾 OLTP system design and implementation
+- 📊 Data warehousing and business intelligence
+- 🔄 Cross-platform development
+- 🛡️ API design and implementation
 
 ---
 
-## 🛠️ Habilidades Técnicas
+## 🛠️ Technical Skills
 
-### Desarrollo back end y front end
+### Backend & Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -34,12 +38,12 @@ Ingeniero en formación con amplia experiencia práctica en administración de s
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Bases de Datos
+### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-### Redes y Sistemas
+### Networking & Systems
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
@@ -47,21 +51,22 @@ Ingeniero en formación con amplia experiencia práctica en administración de s
 
 ---
 
-## 💼 Experiencia en Infraestructuras
+## 💼 Infrastructure Experience
 
-**Implementación de servidores:**
-- 🖥️ Administración de Active Directory.
-- 📦 Virtualización con virtual box.
+**Server Implementation:**
+- 🖥️ Active Directory management
+- 📦 Virtualization with VirtualBox
+- 🌐 DNS
 
-**Redes:**
-- 🌐 Diseño de topologías de red en Cisco Packet Tracer
-- 🔌 Configuración de VLANs y routing
-- 📡 Implementación de redes WAN empresariales
-- 📞 Administración de telefonía.
+**Networking:**
+- 🌐 Network topology design in Cisco Packet Tracer
+- 🔌 VLAN configuration and routing
+- 📡 Enterprise WAN implementation
+- 📞 Telephony systems administration
 
 ---
 
-## 📈 Estadísticas de GitHub
+## 📈 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Diego-CGTZ&show_icons=true&theme=radical" width="48%"/>
@@ -70,7 +75,7 @@ Ingeniero en formación con amplia experiencia práctica en administración de s
 
 ---
 
-## 🌍 Conectemos
+## 🌍 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-camarena-gutiérrez-49722a268)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegocgtz84@gmail.com)
